@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<List>
+<item>
+<id>1</id>
+<firstName>Anna</firstName>
+<lastName>López</lastName>
+<emailId>a@g.com</emailId>
+</item>
+<item>
+<id>2</id>
+<firstName>Alberto</firstName>
+<lastName>Cruz</lastName>
+<emailId>a@c.com</emailId>
+</item>
+<item>
+<id>3</id>
+<firstName>Julia</firstName>
+<lastName>Paz</lastName>
+<emailId>j@p.com</emailId>
+</item>
+</List>
